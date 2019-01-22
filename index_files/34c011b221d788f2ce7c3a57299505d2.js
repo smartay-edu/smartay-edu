@@ -1,7 +1,7 @@
 /*
 Cache: revslider-jquery.themepunch.revolution.min, themepunchtools
 */
-/* themepunchtools: (http://w-52520-87623-98392.475239111.sites.hk3.qifeiye.com/qfy-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.4) */
+/* themepunchtools: (/qfy-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.4) */
 
 
 /********************************************
@@ -55,7 +55,7 @@ Cache: revslider-jquery.themepunch.revolution.min, themepunchtools
 })(jQuery)
 ;
 
-/* revslider-jquery.themepunch.revolution.min: (http://w-52520-87623-98392.475239111.sites.hk3.qifeiye.com/qfy-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.4) */
+/* revslider-jquery.themepunch.revolution.min: (/qfy-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.4) */
 
 
 /**************************************************************************
