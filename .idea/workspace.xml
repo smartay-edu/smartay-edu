@@ -2,6 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd2280c8-7efa-4e6b-8ada-f808d186926a" name="Default Changelist" comment="jhnknkn">
+      <change afterPath="$PROJECT_DIR$/contact_files/952b39341a3e064f4decb73cbf4bf615.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact_files/a27498889868c4220b9c0d2757c8d858.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTgvMDkvMTUzNzQzNDA5Mjk5ODAzMy1hcnJvdy1jbG91ZC1tb25pdG9yLW5lLTgweDgwLnBuZw_p_p100_p_3D_p_p100_p_3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTgvMDkvMTUzNzQzNDE1NTEwMDkyNDAtbC04MHg4MC5wbmc_p_p100_p_3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvZmRiYzY1ZWY3ZmNmMzQ2NjM1NDFiYzdiZmQzNmRjNTYucG5n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital_files/952b39341a3e064f4decb73cbf4bf615.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital_files/a27498889868c4220b9c0d2757c8d858.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvNjQwMzYyYWY0ZDM0NjMyOTcxY2U0NDc1N2Q3MzcwZDUucG5n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvZmRiYzY1ZWY3ZmNmMzQ2NjM1NDFiYzdiZmQzNmRjNTYucG5n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_files/06342f4632116db51c7918db4b6453b3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_files/34c011b221d788f2ce7c3a57299505d2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_files/952b39341a3e064f4decb73cbf4bf615.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_files/a27498889868c4220b9c0d2757c8d858.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvMDgyOWMzZDExYjFiODhjOWM0OTM4MTdlNWU2YjNlOTItNjcyeDY3Mi5qcGc_p_p100_p_3D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvZmRiYzY1ZWY3ZmNmMzQ2NjM1NDFiYzdiZmQzNmRjNTYucG5n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/06342f4632116db51c7918db4b6453b3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/34c011b221d788f2ce7c3a57299505d2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/952b39341a3e064f4decb73cbf4bf615.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/a27498889868c4220b9c0d2757c8d858.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvMDgyOWMzZDExYjFiODhjOWM0OTM4MTdlNWU2YjNlOTItNjcyeDY3Mi5qcGc_p_p100_p_3D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvZmRiYzY1ZWY3ZmNmMzQ2NjM1NDFiYzdiZmQzNmRjNTYucG5n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school_files/952b39341a3e064f4decb73cbf4bf615.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school_files/a27498889868c4220b9c0d2757c8d858.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvMTk4ZWE4YTExMDVhZWIxNDA4NzgyZWRhMzEzMTBiMzktNjAweDQwMC5qcGc_p_p100_p_3D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school_files/aHR0cDovL3ctNTI1MjAtODc2MjMtOTgzOTIuNDc1MjM5MTExLnNpdGVzLmhrMy5xaWZlaXllLmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTkvMDEvZmRiYzY1ZWY3ZmNmMzQ2NjM1NDFiYzdiZmQzNmRjNTYucG5n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school_files/css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,34 +52,35 @@
     <session id="1032797482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
-          <entry key="html" value="8" />
+          <entry key="html" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="8" />
+          <entry key="HTML" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="110" />
+          <entry key="html" value="125" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="110" />
+          <entry key="HTML" value="125" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
@@ -52,18 +88,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
-              <folding>
-                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#2622#2628#0" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1051">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parents.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -74,9 +112,11 @@
     <findStrings>
       <find>info@Smartay.com</find>
       <find>&lt;h2&gt;</find>
+      <find>img/logo.png</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;h4&gt;</replace>
+      <replace>img/logo.png?cacheBust=true</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -107,8 +147,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="273" />
     <option name="width" value="1280" />
     <option name="height" value="724" />
   </component>
@@ -178,36 +218,18 @@
       <workItem from="1547714851764" duration="145000" />
       <workItem from="1547714999556" duration="547000" />
       <workItem from="1547741651937" duration="6000" />
-      <workItem from="1547987922789" duration="1559000" />
+      <workItem from="1547987922789" duration="2382000" />
+      <workItem from="1548196762761" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3402000" />
+    <option name="totallyTimeSpent" value="4465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24861" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24861" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -217,9 +239,28 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24861" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -283,16 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
-          <folding>
-            <element signature="e#2467#2473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schools.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -305,15 +336,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2622#2628#0" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1051">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
         </state>
       </provider>
     </entry>
